@@ -2,7 +2,8 @@
 
 A high-performance, aesthetically pleasing "Block Blast" style puzzle game built with **Unity**.
 
-![Gameplay Screenshot](screenshot.png)
+<img width="847" height="478" alt="{BED5170F-06D5-4081-ADBF-E9A40917D52D}" src="https://github.com/user-attachments/assets/50f1857d-a52a-4ec1-9f09-32864c65a79f" />
+
 
 ## Features
 
